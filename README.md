@@ -1,7 +1,7 @@
 # PyCity Schools District Analysis
 ## Overview
 
-AFter doing initial analysis on the school district to determine where to allocate funding, we have come to learn that the results for the ninth grade class at Thomas High School were tampered with. Therefore, we had to go back through our analysis, remove the values of that data and re-caculate the values of comparison. 
+AFter doing initial analysis on the school district to determine where to allocate funding, we have come to learn that the results for the ninth grade class at Thomas High School were tampered with. Therefore, we had to go back through our analysis, remove the values of that data and re-calculate the values of comparison. 
 
 ## Results
 
@@ -22,4 +22,4 @@ AFter doing initial analysis on the school district to determine where to alloca
     - This was not really impacted because the school types were reported correctly.
   
 ## Summary
-  In summary, blah blah blah.
+  In summary, there were multiple changes that occured as a result of removing the ninth graderes scores from Thomas High SChool. First and foremost, the school then went from being on the lower performing schools to being one of the top performing schools. Secondly, the averages of scores for ninth graders went up overall. Thirdly, the averages for student spending went up as well. Lastly, the scores for medium size schools went up as well. In an overall conclusion, it seems as though charter schools are better performing than public schools in this particular district.
